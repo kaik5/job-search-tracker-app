@@ -1,14 +1,17 @@
-# Project Title
+# Job Search Tracker
 
-Simple overview of use/purpose.
+### Description
 
-## Description
+* Full stack website for job seekers to keep track of information about their job applications, including company, position, job location, and offer status (pending, declined, etc...) with data visualization charts. 
+![overview](/images/thumbnail.png)
+![overview](/images/thumbnail.png)
+![overview](/images/thumbnail.png)
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+### Production Link
+https://job-tracker-app-prod.herokuapp.com/
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Express, React, NodeJS, MongoDB
+
+
