@@ -14,6 +14,6 @@
 
 ### Dependencies
 
-* Express, React, NodeJS, MongoDB
+* Express, React, NodeJS, MongoDB, Styled-Components
 
 
